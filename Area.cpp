@@ -4,7 +4,7 @@ class Area
 {
     private:
       int square,l,w,r;
-      int float area;
+      float area;
       public:
      void setsquare(int x)
      {
