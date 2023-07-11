@@ -3,7 +3,8 @@ using namespace std;
 class Area
 {
     private:
-      int square,area,l,w,r;
+      int square,l,w,r;
+      int float area;
       public:
      void setsquare(int x)
      {
