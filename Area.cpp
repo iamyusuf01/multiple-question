@@ -51,7 +51,7 @@ class Area
      {
         return area;
      }
-     int AreaOfCircle()
+     float AreaOfCircle()
      {
         area=3.14*r*r;
         return area;
